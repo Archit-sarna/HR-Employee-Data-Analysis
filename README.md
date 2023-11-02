@@ -42,6 +42,3 @@ Please note that Power BI reports should be created separately based on the anal
 
 Feel free to customize and expand the analysis and visualization in Power BI based on your specific HR data and business needs.
 
----
-
-This README provides an overview of the HR Employee Data Analysis Project, highlights its features, describes the analysis, and emphasizes the importance of using Power BI for visualization. Customization with specific details, usage examples, and acknowledgments is encouraged for your project.
